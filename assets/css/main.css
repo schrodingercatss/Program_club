@@ -3136,4 +3136,9 @@ input, select, textarea {
 
 	}
 
-
+#summer {
+	width: 100%;
+	height: auto;
+	max-width:100%;
+	display: block;
+}
