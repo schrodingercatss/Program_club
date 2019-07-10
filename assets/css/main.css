@@ -3135,3 +3135,9 @@ input, select, textarea {
 					}
 
 	}
+	
+#summer {
+	float: left;
+	position: relative;
+	right: 55px;
+}
