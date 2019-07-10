@@ -1766,7 +1766,7 @@ input, select, textarea {
 			font-size: 1.25em;
 			margin: 1em 0 2em 0;
 			line-height: 1.5em;
-			/*text-align: inherit;*/
+			text-align: inherit;
 		}
 
 	footer {
