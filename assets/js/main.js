@@ -76,6 +76,7 @@
 				});
 
 	// Carousels.
+        // $('.featured').height($('.featured').width() * 0.75)
 		$('.carousel').each(function() {
 
 			var	$t = $(this),
